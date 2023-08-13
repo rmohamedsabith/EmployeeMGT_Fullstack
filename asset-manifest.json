@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rmohamedsabith/EmployeeMGT_Fullstack/static/css/main.de6ea09a.css",
+    "main.js": "/rmohamedsabith/EmployeeMGT_Fullstack/static/js/main.879207a8.js",
+    "static/js/787.5af875e4.chunk.js": "/rmohamedsabith/EmployeeMGT_Fullstack/static/js/787.5af875e4.chunk.js",
+    "index.html": "/rmohamedsabith/EmployeeMGT_Fullstack/index.html",
+    "main.de6ea09a.css.map": "/rmohamedsabith/EmployeeMGT_Fullstack/static/css/main.de6ea09a.css.map",
+    "main.879207a8.js.map": "/rmohamedsabith/EmployeeMGT_Fullstack/static/js/main.879207a8.js.map",
+    "787.5af875e4.chunk.js.map": "/rmohamedsabith/EmployeeMGT_Fullstack/static/js/787.5af875e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6ea09a.css",
+    "static/js/main.879207a8.js"
+  ]
+}
